@@ -45,8 +45,8 @@ body{
     border-style: solid;
 }
 .red-outline{
-    outline: red;
-    border-style: solid;
+    outline-color: red;
+    outline-style: solid;
 }
 hr{
     border-color: #CFDFE4;
