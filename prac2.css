@@ -42,9 +42,11 @@ body{
 }
 .red-border{
     border: red;
+    border-style: solid;
 }
 .red-outline{
     outline: red;
+    border-style: solid;
 }
 hr{
     border-color: #CFDFE4;
