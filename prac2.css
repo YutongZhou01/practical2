@@ -41,10 +41,10 @@ body{
     font-family: cursive;
 }
 .red-border{
-    border: red;
+    border: solid red;
 }
 .red-outline{
-    outline: red;
+    outline: solid red;
 }
 hr{
     border-color: #CFDFE4;
