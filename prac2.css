@@ -72,4 +72,6 @@ hr{
 #div5{
     border-color:blue;
     border-style: solid;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
