@@ -6,11 +6,9 @@ h3{
 }
 h1{
     font-family: sans-serif;
-    text-align: left;
 }
 p{
     font-family: serif;
-    text-align: right;
 }
 a{
     color:darkgreen;
@@ -47,7 +45,6 @@ body{
 }
 .red-outline{
     outline: red;
-    border-style: solid;
 }
 hr{
     border-color: #CFDFE4;
@@ -75,50 +72,4 @@ hr{
 #div5{
     border-color:blue;
     border-style: solid;
-}
-#div11{
-    border: 1px solid darkgrey;
-    border-radius: 8px;
-    background-color: white;
-}
-#div12{
-    border:red;
-    border-style: solid;
-    background-color: blue;
-    /* margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px; */
-    
-}
-#div13{
-    background-color: yellow;
-    border-color:red;
-    border-style: solid;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 20px;
-    margin-left: 20px;
-    padding: 12px;
-    width: 700px;
-    height: 200px;
-}
-#div14{
-    background-color: blue;
-    border-style: solid;
-    border-color:red;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-}
-#div15{
-    padding: 12px;
-    background-color:yellow;
-    border-color: red;
-    border-style: solid;
-    width: 400px;
-    height: 400px;
-    margin: auto;
-    
 }
