@@ -1,0 +1,93 @@
+h3{
+    color: rgba(0, 0, 139, 0.8);
+}
+.transparent-text{
+    color: rgba(0,0,0,0.5);
+}
+h1{
+    font-family: "Raleway", sans-serif;
+}
+body{
+    font-family: "Noto serif", serif;
+}
+a{
+    color:darkgreen;
+}
+del{
+    color: gray;
+}
+mark{
+    color: darkblue;
+    background-color: pink;
+}
+h2{
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+}
+pre{
+    font-family: monospace;
+}
+body{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+}
+#content{
+    background-color: white;
+}
+.blue{
+    color: blue;
+}
+.fancy{
+    font-family: cursive;
+}
+.red-border{
+    border: solid red;
+}
+.red-outline{
+    outline: solid red;
+}
+hr{
+    border-color: #CFDFE4;
+}
+#div1{
+    border: 1px solid darkgrey;
+    border-radius: 8px;
+    background-color: white;
+}
+#div2{
+    border:red;
+    border-style: solid;
+}
+#div3{
+    border-color:blue;
+    border-style: solid;
+}
+#div4{
+    border-style: solid;
+    border-color:red;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom: hidden;
+}
+#div5{
+    border-color:blue;
+    border-style: solid;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+blockquote{
+    quotes:none;
+    font-family: "Raleway";
+    color: dimgrey;
+    line-height: 1.5;
+    word-spacing: 0.2em;
+    text-align: justify;
+}
+h4{
+    font-weight: normal;
+    font-family: "Raleway";
+}
+#div6{
+    text-align: center;
+    color: #BFCFD4;
+}
